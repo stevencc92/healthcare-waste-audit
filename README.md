@@ -1,6 +1,9 @@
 # When Metrics Fail  
 ## Why Institutional Food Waste Logs Don’t Enable Accountability
 
+### Intro
+50 — but 50 what? Pounds? Pans? Portions? This question, unanswerable from real institutional food waste logs, is the starting point for this project.
+
 ### Overview
 This project examines a real-world food usage log used in a large institutional kitchen and evaluates whether the log can meaningfully measure food waste or support accountability.
 
