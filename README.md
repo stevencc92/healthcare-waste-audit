@@ -52,8 +52,7 @@ A de-identified example of this log is included in the `artifact/` directory.
 - `reflections.md` – Broader implications for accountability and metrics
 
 ### Tools Used
-This project emphasizes analytical reasoning and system evaluation.  
-No SQL queries or datasets were required.
+This project prioritizes analytical reasoning over technical execution. The failure identified exists at the system design level, before any data analysis tool could help.
 
 ---
 
