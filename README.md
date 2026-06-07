@@ -52,7 +52,7 @@ A de-identified example of this log is included in the `artifact/` directory.
 - `reflections.md` – Broader implications for accountability and metrics
 
 ### Tools Used
-This project prioritizes analytical reasoning over technical execution. The failure identified exists at the system design level, before any data analysis tool could help.
+The core work in this project is measurement system evaluation; diagnosing why a data collection framework fails before quantitative analysis can begin. Identifying what a system cannot measure, and why, is a prerequisite analytical skill. A minimal viable redesign is proposed as a structured framework for making the log actionable.
 
 ---
 
