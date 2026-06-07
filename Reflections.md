@@ -10,4 +10,4 @@ This is a pattern in institutional food service. The gap between "we have a proc
 
 The result is a measurement system that insulates decision-makers from the problem rather than informing them about it. The numbers look like data. They get filed somewhere. And the question of whether food waste is actually being managed never has to be answered, because technically, it's being tracked.
 
-What this project proposes isn't complicated. Standardize the unit. Tie it to production volume. Add a date and a location. The barrier to a functional log isn't technical — it's that a functional log makes the problem visible, and visibility creates pressure to act. That's the real reason it hasn't been fixed.
+What this project proposes isn't complicated. Standardize the unit. Tie it to production volume. Add a date and a location. The barrier to a functional log isn't technical, it's that a functional log makes the problem visible, and visibility creates pressure to act. That's the real reason it hasn't been fixed.
