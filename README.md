@@ -45,11 +45,11 @@ A de-identified example of this log is included in the `artifact/` directory.
 - The system prioritizes documentation over actionable insight
 
 ### Structure
-- `artifact/` – Example of the food usage log
-- `analysis/` – Measurement requirements and evaluation
-- `proposal/` – Minimal metric redesign suggestions
-- `assumptions_and_limitations.md` – Explicit scope boundaries
-- `reflections.md` – Broader implications for accountability and metrics
+- `Artifact/` – Example of the food usage log
+- `Analysis/` – Measurement requirements and evaluation
+- `Proposal/` – Minimal metric redesign suggestions
+- `Assumptions_and_Limitations.md` – Explicit scope boundaries
+- `Reflections.md` – Broader implications for accountability and metrics
 
 ### Tools Used
 The core work in this project is measurement system evaluation; diagnosing why a data collection framework fails before quantitative analysis can begin. Identifying what a system cannot measure, and why, is a prerequisite analytical skill. A minimal viable redesign is proposed as a structured framework for making the log actionable.
