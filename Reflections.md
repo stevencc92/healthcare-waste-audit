@@ -1,13 +1,17 @@
 # Reflections
 
-## On Broken Metrics and the Incentive to Keep Them Broken
+## On Measurement Systems That Cannot Fail Visibly
 
-The most important finding in this project isn't about units or logging structure. It's about why a system this broken survives.
+The most useful thing this project surfaced isn't about units. It's about which problems get instrumented and which don't.
 
-The log analyzed here doesn't fail because no one thought carefully about measurement design. It fails because a carefully designed measurement system would create accountability, and accountability is uncomfortable. A sheet of paper with numbers on it — even meaningless numbers — is enough to say "yes, we're tracking it" when someone asks. That's what the log is for. Not waste reduction. Not operational insight. The answer to the question.
+The organization was not uninterested in waste. It built a waste log for the cafeteria merchandiser — the ready-to-eat case, where every item is discrete, countable, and individually labeled. Each unit is defined before anyone starts counting. Nothing comparable existed for the hot line running five days a week, which is where the volume was, and where a unit would have had to be defined before anything could be recorded at all.
 
-This is a pattern in institutional food service. The gap between "we have a process" and "our process works" is rarely examined, because examining it requires admitting the process doesn't work, which raises the question of why no one fixed it sooner. It's easier to keep the sheet of paper circulating. Especially when the people responsible for the system aren't particularly close to the operational reality it's supposed to reflect.
+That pattern is worth sitting with. The effort was real. It landed on the category where the measurement problem was already solved, and stopped short of the one where it wasn't.
 
-The result is a measurement system that insulates decision-makers from the problem rather than informing them about it. The numbers look like data. They get filed somewhere. And the question of whether food waste is actually being managed never has to be answered, because technically, it's being tracked.
+The same shape appears in how improvement was requested. Supervisors asked cooks to manage waste, and pointed to the production buffer I used as an example worth following. But a buffer is a production discipline applied before service — there was no way to verify afterward whether following it changed anything, because nothing measured the outcome. The request was addressed to individual behavior. The gap was in the instrument. Even full compliance would have produced no evidence either way.
 
-What this project proposes isn't complicated. Standardize the unit. Tie it to production volume. Add a date and a location. The barrier to a functional log isn't technical, it's that a functional log makes the problem visible, and visibility creates pressure to act. That's the real reason it hasn't been fixed.
+I drafted a tracking template and gave it to the acting director and two supervisors. I was told it went over her head, and that it had been passed up the chain. Nothing came back. What happened to it after that, I don't know.
+
+A system like this doesn't fail loudly. Sheets circulate, boxes get filled, and the question "are we tracking waste?" has an honest answer — yes — that is entirely disconnected from whether anyone knows what waste occurred. Nothing in the design forces the gap into view. There is no step where someone is confronted with the fact that the numbers cannot answer the question they were collected for.
+
+If the county had asked me on my last day how much food was being wasted, my answer would have been that the question couldn't be answered. Not that the number was high, or that someone was at fault — that with the documents in use, no one was in a position to know. Until there is a defined unit, and a document that uses it consistently, the operation is in the dark about what is wasted and why. The barrier to fixing that isn't technical. A scale and a column would do it.
