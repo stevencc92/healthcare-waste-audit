@@ -18,7 +18,7 @@ This project is based on the following assumptions:
 2. **Recorded values are entered in good faith by staff.**  
    This project does not assume intentional misreporting or negligence by individual cooks, runners, or supervisors. The focus is on system design rather than human error.
 
-3. **The structure of the log reflects the organization’s current measurement approach.**  
+3. **The structure of the log reflects the organization’s current measurement approach at the site where it was used.**  
    The analysis treats the log as representative of how food usage is formally documented, rather than as an informal or temporary tool.
 
 4. **Leadership decisions rely, at least partially, on documented metrics.**  
