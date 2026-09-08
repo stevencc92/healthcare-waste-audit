@@ -6,7 +6,7 @@ The most useful thing this project surfaced isn't about units. It's about which 
 
 The organization was not uninterested in waste. It built a waste log for the cafeteria merchandiser — the ready-to-eat case, where every item is discrete, countable, and individually labeled. Each unit is defined before anyone starts counting. Nothing comparable existed for the hot line running five days a week, which is where the volume was, and where a unit would have had to be defined before anything could be recorded at all.
 
-That pattern is worth sitting with. The effort was real. It landed on the category where the measurement problem was already solved, and stopped short of the one where it wasn't.
+That pattern is worth thinking about. The effort was real. It landed on the category where the measurement problem was already solved, and stopped short of the one where it wasn't.
 
 The same shape appears in how improvement was requested. Supervisors asked cooks to manage waste, and pointed to the production buffer I used as an example worth following. But a buffer is a production discipline applied before service — there was no way to verify afterward whether following it changed anything, because nothing measured the outcome. The request was addressed to individual behavior. The gap was in the instrument. Even full compliance would have produced no evidence either way.
 
