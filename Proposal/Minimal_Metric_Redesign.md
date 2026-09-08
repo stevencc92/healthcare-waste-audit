@@ -27,9 +27,7 @@ The proposed changes follow three principles:
 
 ### 1. Replace “Servings” With a Defined Unit
 
-Replace the ambiguous “servings” unit with one of the following:
-- Weight-based units (preferred), or
-- A clearly defined standardized portion size per item
+- Replace the ambiguous “servings” unit weight-based units
 
 This change alone enables:
 - Aggregation
@@ -38,11 +36,11 @@ This change alone enables:
 
 ---
 
-### 2. Enforce Usage Calculation
+### 2. Measurement Procedure
 
 Usage should be automatically or procedurally calculated as:
 
-> **Used = Starting Quantity + Additions − Remaining**
+> **Used = Starting Quantity After Prep + Additions − Remaining After Service**
 
 Manual entry of “Used” should be discouraged or eliminated to reduce estimation error.
 
