@@ -6,7 +6,7 @@ The food usage log analyzed in this project is from a hospital kitchen operated 
 
 The site where I worked had no waste tracking instrument of any kind — no form, no log, no recorded quantities. I drafted and proposed a tracking template there; it was not adopted, and no measurement system was in place during my time there.
 
-This project therefore evaluates the county's existing measurement practice as observed at the site where a practice existed. Whether the same form was used, or intended to be used, at the site where I worked is not documented and is not claimed here. The finding is about the instrument in the photograph: what it can and cannot measure, and why.
+This project therefore evaluates the county's existing measurement practice as observed at the site where a practice existed. Whether the same form was used, or intended to be used, at the site where I worked is not documented and is not claimed here. The finding is about the instrument in the photograph, what it can and cannot measure, and why.
 
 ## Assumptions
 
